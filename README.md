@@ -13,3 +13,17 @@ src https://apps.apple.com/au/app/buildpass-aus/id1538577836
 
 #### Button Icon is not aligned
   <img src="assets/search_screen.jpg" alt="Profile Picture" style="width: 200px; height: 350px;">
+
+
+# CashRewards
+[CashRewards](https://apps.apple.com/au/app/cashrewards-cashback-rewards/id1435807627)
+
+
+##App Review: CashRewards
+
+#### DatePicker on Click History causes errors with blank screen
+  <img src="assets/datepicker_android.jpg" alt="Date picker screen" style="width: 200px; height: 350px;">
+
+
+#### Tap 5 times on App Version on Setting Screen will display a blank screen or Restart Now Button
+  <img src="assets/datepicker_android.jpg" alt="Date picker screen" style="width: 200px; height: 350px;">
