@@ -22,8 +22,8 @@ src https://apps.apple.com/au/app/buildpass-aus/id1538577836
 ##App Review: CashRewards
 
 #### DatePicker on Click History causes errors with blank screen
-  <img src="assets/datepicker_android.png" alt="Date picker screen" style="width: 200px; height: 350px;">
+  <img src="assets/datepicker.png" alt="Date picker screen" style="width: 200px; height: 350px;">
 
 
 #### Tap 5 times on App Version on Setting Screen will display a blank screen or Restart Now Button
-  <img src="assets/datepicker_android.png" alt="Date picker screen" style="width: 200px; height: 350px;">
+  <img src="assets/datepicker.png" alt="Date picker screen" style="width: 200px; height: 350px;">
