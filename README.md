@@ -1,15 +1,11 @@
-## Table of Contents
+## List of app review
 
 1. [BuildPass](#BuildPass)
 2. [CashRewards](#CashRewards)
 
 
+
 ## BuildPass
-
-## CashRewards
-
-
-# BuildPass
 src https://apps.apple.com/au/app/buildpass-aus/id1538577836
 
 
@@ -26,7 +22,7 @@ src https://apps.apple.com/au/app/buildpass-aus/id1538577836
   <img src="assets/search_screen.jpg" alt="Profile Picture" style="width: 200px; height: 350px;">
 
 
-# CashRewards
+## CashRewards
 [CashRewards](https://apps.apple.com/au/app/cashrewards-cashback-rewards/id1435807627)
 
 
